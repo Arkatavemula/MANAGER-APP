@@ -12,8 +12,7 @@ Usage : <br>
 Contributing : <br>
 &nbsp;&nbsp;&nbsp;&nbsp;By adding the additional features, one can contribute with proper description of the PR.
 
-Credits : @nikhilesh2010
-
+Credits : Anilkumar
 
 # Getting Started with Create React App
 
@@ -96,3 +95,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 >>>>>>> 7e058fb9d7e9ff3ce5966bf7af228d674545d4cd
 "# project1" 
 "# Contact-App" 
+"# contactapp" 
